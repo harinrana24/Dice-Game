@@ -1,4 +1,4 @@
-here is the working [link](https://github.com/harinrana24/Dice-Game) 
+here is the working [link](https://harinrana24.github.io/Dice-Game/) 
 
 
 ![image](https://github.com/harinrana24/Dice-Game/assets/96372313/a7cef9ca-cb93-407e-8de5-1ebc163a171f)
